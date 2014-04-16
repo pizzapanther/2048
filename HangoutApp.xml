@@ -9,6 +9,7 @@
 <html>
 <link rel="stylesheet" href="//pizzapanther.github.io/2048/style/main.css" />
 <body>
+  <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
   <div class="container">
     <div class="heading">
       <h1 class="title">2048</h1>
